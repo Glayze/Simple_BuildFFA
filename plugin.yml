@@ -1,0 +1,8 @@
+name: BuildFFA
+version: 1.0
+author: KeinSupport
+main: de.buildffa.ptg.BuildFFA
+
+commands:
+  set:
+  stats:
